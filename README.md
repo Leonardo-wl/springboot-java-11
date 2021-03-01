@@ -12,7 +12,7 @@
   - CRUD - Create, Retrieve, Update, Delete
   - Tratamento de exceções
 
-<h1>🛠 Tecnologias</h1>
+<h1>Tecnologias</h1>
 
   - Spring Boot
   - Apache Tomcat
